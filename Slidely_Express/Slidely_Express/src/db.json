@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Aniruddha Birage",
+    "email": "annibirage@gmail.com",
+    "phone": "7262903303",
+    "github_link": "https://github.com/AniBirage",
+    "stopwatch_time": "00:00:25"
+  },
+  {
+    "name": "Robert Frost",
+    "email": "frosrob@hotmail.com",
+    "phone": "2984316509",
+    "github_link": "https://github.com/RobFrost",
+    "stopwatch_time": "00:00:20"
+  },
+  {
+    "name": "J K Rowling",
+    "email": "rowlingjk@gmail.com",
+    "phone": "5734689701",
+    "github_link": "https://github.com/RowlingKJ",
+    "stopwatch_time": "00:01:16"
+  }
+]

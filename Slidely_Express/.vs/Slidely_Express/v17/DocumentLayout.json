@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\apsbi\\source\\repos\\Slidely_Express\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD193DB7-A117-4E01-885D-59B9C5998EEC}|Slidely_Express\\Slidely_Express.esproj|c:\\users\\apsbi\\source\\repos\\slidely_express\\slidely_express\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AD193DB7-A117-4E01-885D-59B9C5998EEC}|Slidely_Express\\Slidely_Express.esproj|solutionrelative:slidely_express\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD193DB7-A117-4E01-885D-59B9C5998EEC}|Slidely_Express\\Slidely_Express.esproj|c:\\users\\apsbi\\source\\repos\\slidely_express\\slidely_express\\db.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AD193DB7-A117-4E01-885D-59B9C5998EEC}|Slidely_Express\\Slidely_Express.esproj|solutionrelative:slidely_express\\db.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD193DB7-A117-4E01-885D-59B9C5998EEC}|Slidely_Express\\Slidely_Express.esproj|c:\\users\\apsbi\\source\\repos\\slidely_express\\slidely_express\\src\\server.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{AD193DB7-A117-4E01-885D-59B9C5998EEC}|Slidely_Express\\Slidely_Express.esproj|solutionrelative:slidely_express\\src\\server.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD193DB7-A117-4E01-885D-59B9C5998EEC}|Slidely_Express\\Slidely_Express.esproj|c:\\users\\apsbi\\source\\repos\\slidely_express\\slidely_express\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AD193DB7-A117-4E01-885D-59B9C5998EEC}|Slidely_Express\\Slidely_Express.esproj|solutionrelative:slidely_express\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\apsbi\\source\\repos\\Slidely_Express\\Slidely_Express\\package.json",
+              "RelativeDocumentMoniker": "Slidely_Express\\package.json",
+              "ToolTip": "C:\\Users\\apsbi\\source\\repos\\Slidely_Express\\Slidely_Express\\package.json",
+              "RelativeToolTip": "Slidely_Express\\package.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-19T14:29:24.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "db.json",
+              "DocumentMoniker": "C:\\Users\\apsbi\\source\\repos\\Slidely_Express\\Slidely_Express\\db.json",
+              "RelativeDocumentMoniker": "Slidely_Express\\db.json",
+              "ToolTip": "C:\\Users\\apsbi\\source\\repos\\Slidely_Express\\Slidely_Express\\db.json",
+              "RelativeToolTip": "Slidely_Express\\db.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-19T14:29:01.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "server.ts",
+              "DocumentMoniker": "C:\\Users\\apsbi\\source\\repos\\Slidely_Express\\Slidely_Express\\src\\server.ts",
+              "RelativeDocumentMoniker": "Slidely_Express\\src\\server.ts",
+              "ToolTip": "C:\\Users\\apsbi\\source\\repos\\Slidely_Express\\Slidely_Express\\src\\server.ts",
+              "RelativeToolTip": "Slidely_Express\\src\\server.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-19T14:28:18.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "tsconfig.json",
+              "DocumentMoniker": "C:\\Users\\apsbi\\source\\repos\\Slidely_Express\\Slidely_Express\\tsconfig.json",
+              "RelativeDocumentMoniker": "Slidely_Express\\tsconfig.json",
+              "ToolTip": "C:\\Users\\apsbi\\source\\repos\\Slidely_Express\\Slidely_Express\\tsconfig.json",
+              "RelativeToolTip": "Slidely_Express\\tsconfig.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-19T14:18:18.011Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
