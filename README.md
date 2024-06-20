@@ -41,16 +41,3 @@ npm install
 ```bash
 npm start
 ```
-## Usage
-- **Ping the server**:
-```bash
-curl http://localhost:3000/ping
-```
-- **Submit a new entry**:
-```bash
-curl -X POST http://localhost:3000/submit -d '{"name":"John Doe","email":"johndoe@gmail.com","phone":"9876543210","github_link":"https://github.com/john_doe/my_slidely_task","stopwatch_time":"00:01:19"}' -H "Content-Type: application/json"
-```
-- **Read a submission**:
-```bash
-curl http://localhost:3000/read?index=0
-```
